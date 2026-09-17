@@ -1,2 +1,5 @@
-
+.holder{
+	display:flex;
+	gap:20px;
+}
 /* Your CSS Code here. */
